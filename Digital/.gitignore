@@ -85,5 +85,10 @@
 !*.bmm
 !*.xmp
 
+# SDK projects
+!.cproject
+!.project
+!*.spec
+!*.ld
 *.bak
 sources
