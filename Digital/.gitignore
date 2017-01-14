@@ -85,10 +85,15 @@
 !*.bmm
 !*.xmp
 
+# IP repo
+!*.mdd
+!Makefile
+example_designs/
+
 # SDK projects
 !.cproject
 !.project
 !*.spec
 !*.ld
 *.bak
-sources
+sources/

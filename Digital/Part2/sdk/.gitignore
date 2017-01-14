@@ -1,0 +1,9 @@
+.metadata/
+.sdk/
+RemoteSystemsTempFiles/
+webtalk/
+LED_Controller_test_bsp/
+led_test_system_wrapper.hdf
+led_test_system_wrapper_hw_platform_0/
+Debug/
+Release/
